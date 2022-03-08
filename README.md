@@ -3,7 +3,6 @@
 - 🌱 Atualmente eu estou aprendendo HTML | CSS | Javascript;
 - 🦋 Sou formada em Odontologia. Estou em transição de área;
 - 😄 Pronomes: ela/dela;
-- ✈️ Sonho em conhecer Londres, Inglaterra.
 
 ##
 
