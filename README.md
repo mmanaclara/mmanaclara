@@ -1,6 +1,6 @@
 ### Olá! Eu sou Clara Moreira 👋
 
-- 🌱 Atualmente eu estou aprendendo HTML | CSS | Javascript;
+- 🌱 Atualmente eu estou aprendendo HTML | CSS | Javascript | ReactJS;
 - 🦋 Sou formada em Odontologia. Estou em transição de área;
 - 😄 Pronomes: ela/dela;
 
