@@ -1,13 +1,14 @@
 ## Oi, eu sou Clara! 😊
 💻 Desenvolvedora Front-End Jr.
 
-<a href="https://www.linkedin.com/in/clarammoreira/" target="_blank"><img height="20" src="https://user-images.githubusercontent.com/101205725/175991589-a5b7f609-b842-4837-946f-5a9e50af45d5.svg" target="_blank"></a> <a href="mailto:anacacamm@gmail.com" target="_blank"><img height="20" src="https://user-images.githubusercontent.com/101205725/175991606-3525e47a-1ddd-4c2e-a0be-8c72044ebe94.svg" target="_blank"></a> 
+[![Linkedin Badge](https://img.shields.io/badge/-Clara%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarammoreira/)](https://www.linkedin.com/in/clarammoreira/) 
+[![Gmail Badge](https://img.shields.io/badge/-anacacamm@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:anacacamm@gmail.com)
 
 <h4>Sobre mim:</h4>
-* 🌴 Sou de Recife/PE, mas moro em João Pessoa/PB;<br />
-* 💙 Apaixonada por Desenvolvimento Web, especialmente por Front End;<br />
-* ✨ Em transição de carreira; Formada em Odontologia;<br />
-* 🌱 Atualmente, estou aprendendo: React com Typescript;<br />
+- 🌴 Sou de Recife/PE, mas moro em João Pessoa/PB;<br />
+- 💙 Apaixonada por Desenvolvimento Web, especialmente por Front End;<br />
+- ✨ Em transição de carreira; Formada em Odontologia;<br />
+- 🌱 Atualmente, estou aprendendo: React com Typescript;<br />
 
 <h4>Linguagens e ferramentas:</h4>
 <div style="display: inline_block">
