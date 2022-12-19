@@ -5,10 +5,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-anacacamm@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:anacacamm@gmail.com)
 
 <h4>Sobre mim:</h4>
+- 💻 Desenvolvedora Front-end Jr. na Novadata;<br />
 - 🌴 Sou de Recife/PE, mas moro em João Pessoa/PB;<br />
 - 🦷 Formada em Odontologia;<br />
 - 💙 Apaixonada por Desenvolvimento Web, especialmente por Front-end;<br />
-- 🌱 Desenvolvedora Front-end Jr. na Novadata;<br />
 
 <h4>Linguagens e ferramentas:</h4>
 <div style="display: inline_block">
