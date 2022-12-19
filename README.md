@@ -1,5 +1,4 @@
-## Oi, eu sou Clara! 😊
-💻 Desenvolvedora Front-End Jr.
+## Olá, eu sou Clara! 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-Clara%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarammoreira/)](https://www.linkedin.com/in/clarammoreira/) 
 [![Gmail Badge](https://img.shields.io/badge/-anacacamm@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:anacacamm@gmail.com)
