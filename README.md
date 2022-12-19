@@ -6,8 +6,8 @@
 <h4>Sobre mim:</h4>
 - 💻 Desenvolvedora Front-end Jr. na Novadata;<br />
 - 🌴 Sou de Recife/PE, mas moro em João Pessoa/PB;<br />
-- 🦷 Formada em Odontologia;<br />
 - 💙 Apaixonada por Desenvolvimento Web, especialmente por Front-end;<br />
+- 🦷 Graduada em Odontologia;<br />
 
 <h4>Linguagens e ferramentas:</h4>
 <div style="display: inline_block">
