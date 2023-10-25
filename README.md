@@ -1,7 +1,9 @@
 ## Hey there, I'm Clara! 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-Clara%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarammoreira/)](https://www.linkedin.com/in/clarammoreira/) 
+[![Vue Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=vue.js&logoColor=white&link=https://portfolio-mmanaclara.vercel.app/)](https://portfolio-mmanaclara.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-anacacamm@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:anacacamm@gmail.com)
+
 
 <h4>About me:</h4>
 - 💻 Junior Front-end Developer @ Novadata;<br />
