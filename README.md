@@ -1,7 +1,7 @@
 ## Hey there, I'm Clara! 😊
 
 [![Linkedin Badge](https://img.shields.io/badge/-Clara%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/clarammoreira/)](https://www.linkedin.com/in/clarammoreira/) 
-[![Vue Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=vue.js&logoColor=white&link=https://portfolio-mmanaclara.vercel.app/)](https://portfolio-mmanaclara.vercel.app/)
+[![Vue Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=vue.js&logoColor=white&link=https://portfolio-mmanaclara.vercel.app/)](https://portfolio-vue-mmanaclara.vercel.app/)
 [![Gmail Badge](https://img.shields.io/badge/-anacacamm@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:anacacamm@gmail.com)
 
 
@@ -12,13 +12,13 @@
 - 🌍 Dream destination: London, UK;<br />
 
 <h4>Technical Habilities:</h4>
-- HTML;<br />
-- CSS;<br />
-- Tailwind;<br />
-- Sass;<br />
-- JavaScript;<br />
 - Vue.js;<br />
 - React.js;<br />
+- JavaScript;<br />
+- Tailwind;<br />
+- Sass;<br />
+- CSS;<br />
+- HTML;<br />
 - Git;<br />
 
 <h4>Tools:</h4>
