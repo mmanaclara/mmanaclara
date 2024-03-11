@@ -6,7 +6,7 @@
 
 
 <h4>About me:</h4>
-- 💻 Junior Front-end Developer @ Novadata;<br />
+- 💻 Junior Front-end Developer @ Grupo Neiva;<br />
 - 🌴 I'm from Recife/PE, but I'm currently based in João Pessoa/PB;<br />
 - 🦷 I have a background in Dentistry.<br />
 - 🌍 Dream destination: London, UK;<br />
