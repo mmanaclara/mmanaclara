@@ -14,7 +14,7 @@
 
 <h4>Technical Habilities:</h4>
 - Vue.js;<br />
-- React.js;<br />
+- Nuxt;<br />
 - JavaScript;<br />
 - Tailwind;<br />
 - Sass;<br />
