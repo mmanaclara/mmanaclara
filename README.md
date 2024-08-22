@@ -16,6 +16,7 @@
 - Vue.js;<br />
 - Nuxt;<br />
 - JavaScript;<br />
+- Jest/Vitest;<br />
 - Tailwind;<br />
 - Sass;<br />
 - CSS;<br />
