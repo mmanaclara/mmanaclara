@@ -6,11 +6,10 @@
 
 
 <h4>About me:</h4>
-- 💻 Junior Front-end Developer @ MVC Publisher;<br />
+- 💻 Junior Front-end Developer;<br />
 - 📚 Passionate about education;<br />
 - 🌴 I'm from Recife/PE, but I'm currently based in João Pessoa/PB;<br />
 - 🦷 I have a background in Dentistry.<br />
-- 🌍 Dream destination: London, UK;<br />
 
 <h4>Technical Habilities:</h4>
 - Vue.js;<br />
