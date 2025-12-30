@@ -6,7 +6,7 @@
 
 
 <h4>About me:</h4>
-- 💻 Junior Front-end Developer;<br />
+- 💻 Front-end Developer;<br />
 - 📚 Passionate about education;<br />
 - 🌴 I'm from Recife/PE, but I'm currently based in Caruaru/PE;<br />
 - 🦷 I have a background in Dentistry.<br />
