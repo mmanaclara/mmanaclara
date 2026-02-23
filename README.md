@@ -1,6 +1,6 @@
 ## Hey there, I'm Clara! 😊
 
-[![Linkedin Badge](https://img.shields.io/badge/-Clara%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claramoreira-frontend/)](https://www.linkedin.com/in/clarammoreira/) 
+[![Linkedin Badge](https://img.shields.io/badge/-Clara%20Moreira-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/claramoreira-frontend/)](https://www.linkedin.com/in/claramoreira-frontend/) 
 [![Vue Badge](https://img.shields.io/badge/-Portfolio-blue?style=flat-square&logo=vue.js&logoColor=white&link=https://claramoreira.dev.br)](https://claramoreira.dev.br)
 [![Gmail Badge](https://img.shields.io/badge/-anacacamm@gmail.com-blue?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacacamm@gmail.com)](mailto:anacacamm@gmail.com)
 
